@@ -8,7 +8,7 @@
 
 #### 海外访问地址：https://zifanr.net
 
-#### 大陆直连域名：https://zifanr.xyz
+#### 大陆直连域名：https://zifaner.com
 
 ##### telegram 群组：https://t.me/ifaner
-## 更新时间24/04/2023
+## 更新时间24/03/2024
