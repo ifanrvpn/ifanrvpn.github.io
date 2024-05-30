@@ -6,11 +6,11 @@
 
 #### 永久发布地址：https://ifanrvpn.github.io
 
-#### 海外访问地址：https://zifanr.net
+#### 海外访问地址：https://zifanr.net/
 
-#### 大陆直连域名：https://zifaner.com
+#### 大陆直连域名：https://imfanr.org/
 
-#### 教程文档链接：https://sev7en.blog
+#### 教程文档链接：https://sev7en.blog/
 
 ##### telegram 群组：https://t.me/ifaner
 ## 更新时间24/03/2024
