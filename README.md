@@ -10,7 +10,7 @@
 
 #### 大陆直连域名：https://imfanr.org/
 
-#### 教程文档链接：https://page.mydocshub.org/
+#### 教程文档链接：https://ifanrcloud.gitbook.io/guide
 
 ##### telegram 群组：https://t.me/ifaner
 ## 更新时间24/03/2024
